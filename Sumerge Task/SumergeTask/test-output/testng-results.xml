@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T20:08:52 EET" name="Default suite" finished-at="2024-07-04T20:08:57 EET" duration-ms="4339">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T20:08:52 EET" name="Default test" finished-at="2024-07-04T20:08:57 EET" duration-ms="4339">
+      <class name="Task">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Task@534a5a98]" started-at="2024-07-04T20:08:52 EET" name="setUp" finished-at="2024-07-04T20:08:56 EET" duration-ms="3824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpElements()[pri:0, instance:Task@534a5a98]" started-at="2024-07-04T20:08:56 EET" name="setUpElements" finished-at="2024-07-04T20:08:56 EET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpElements -->
+        <test-method signature="emptyPassword()[pri:0, instance:Task@534a5a98]" started-at="2024-07-04T20:08:56 EET" name="emptyPassword" finished-at="2024-07-04T20:08:57 EET" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPassword -->
+      </class> <!-- Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
