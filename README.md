@@ -12,11 +12,7 @@ To run this project locally, follow these instructions:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MariamAdham1/SumergeAutomationTask.git
-   cd your-repository
-   mvn clean install
-   ### Running Tests
 
-```markdown
 ### Running Tests
 
 You can run the tests using Maven or your IDE:
@@ -24,7 +20,7 @@ You can run the tests using Maven or your IDE:
 - **Using Maven:**
   ```bash
   mvn test
-```markdown
+
 ## Project Structure
 
 The project structure is organized as follows:
@@ -48,3 +44,14 @@ Verifies error message display when username field is empty.
 ### 4. Empty Password (`emptyPassword`)
 
 Verifies error message display when password field is empty.
+
+## Technologies Used
+
+- Selenium WebDriver
+- Java
+- TestNG
+
+## Authors
+
+- Mariam (GitHub: [MariamAdham1](https://github.com/MariamAdham1/SumergeAutomationTask.git))
+
